@@ -1,0 +1,26 @@
+# Android / Gradle build output
+*.iml
+.gradle/
+.kotlin/
+/build/
+app/build/
+app/release/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine and IDE config
+/local.properties
+/.idea/
+.DS_Store
+
+# Secrets and signing
+.env
+*.jks
+*.keystore
+google-services.json
+
+# On-device model files (download separately, see README)
+*.task
+*.bin
+*.tflite
