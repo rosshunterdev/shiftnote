@@ -12,11 +12,9 @@ ShiftNote rewrites the note for you. By default the AI model runs entirely on th
 
 ## Screenshots
 
-<!-- Add 2 or 3 images to docs/screenshots/ and uncomment:
-| Main screen | Cloud preview | Settings |
-|---|---|---|
-| ![Main screen](docs/screenshots/main.png) | ![Cloud preview](docs/screenshots/preview.png) | ![Settings](docs/screenshots/settings.png) |
--->
+| Main screen | Settings |
+|---|---|
+| <img src="docs/screenshots/main.png" alt="Main screen with client picker, note box, Tap to speak and Improve buttons" width="280"> | <img src="docs/screenshots/settings.png" alt="Settings with role, Improve style, client management and on-device or cloud mode" width="280"> |
 
 ## Status
 
